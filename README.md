@@ -49,12 +49,8 @@ $dbname = 'php_blog';
 $dbuser = 'root';
 $dbpass = '';
 
- 4. Projekt in Browser öffnen z. B.:
+4. Admin-Bereich aufrufen:
 
-http://localhost:8080/php-blog/
-5. Admin-Bereich aufrufen:
-
-http://localhost:8080/php-blog/admin-panel/pages/auth/login.php
 🔑 Standard-Login
 
 Benutzername: ali@gmail.com
